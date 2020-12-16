@@ -2,6 +2,8 @@
 ## Developed by Iván Legorreta
 ### Contact info: ilegorreta@outlook.com
 
+---
+
 The aim of this project was to develop a Quality Assessment tool for fetal brain MRIs, which is able to score each volume through a deep learning regression model. Developed using Python3 and Keras/Tensorflow framework.
 
 Our network architecture consists of a non-linear configuration, known as Residual Network (ResNet) architecture: 
