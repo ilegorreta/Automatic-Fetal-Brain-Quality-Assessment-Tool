@@ -24,9 +24,9 @@ Given that we are dealing with an unbalanced distribution regarding input datase
 ```
 The first line of the yml file sets the new environment's name.
 
-1.  Activate the new environment: conda activate myenv
+2.  Activate the new environment: conda activate myenv
 
-1. Verify that the new environment was installed correctly:
+3. Verify that the new environment was installed correctly:
 ```python
   conda env list
 ```
