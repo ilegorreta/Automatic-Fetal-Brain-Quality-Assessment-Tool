@@ -8,6 +8,7 @@ Our network architecture consists of a non-linear configuration, known as Residu
 ![Resnet Architecture Diagram](https://github.com/ilegorreta/Automatic-Fetal-Brain-Quality-Assessment-Tool/blob/main/resnet_architecture_diagram.png)
 
 Given that we are dealing with an unbalanced distribution regarding input dataset, we applied different weights to each input class to compensate for the imbalance in the training sample.
+
 ---
 ### Requirements
 * Linux environment
